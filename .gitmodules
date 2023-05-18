@@ -1,0 +1,3 @@
+[submodule "buildroot/package/pathfinder"]
+	path = buildroot/package/pathfinder
+	url = https://github.com/Baticaly/Pathfinder
