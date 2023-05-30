@@ -14,4 +14,7 @@ dtoverlay=miniuart-bt
 dtoverlay=uart2
 dtoverlay=uart4
 
+dtparam=i2c1=on
+dtparam=i2c_arm=on
+
 dtoverlay=krnbt=on
